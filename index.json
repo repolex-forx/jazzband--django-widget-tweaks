@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-widget-tweaks",
+  "versions": [
+    {
+      "commit": "483b594c875469827d835941eba4856cec46a5d8",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:35:47.221311+00:00"
+    }
+  ]
+}
