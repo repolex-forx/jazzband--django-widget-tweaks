@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "jazzband",
+  "repo": "django-widget-tweaks",
+  "versions": [
+    {
+      "commit": "483b594c875469827d835941eba4856cec46a5d8",
+      "parsed_at": "2026-10-10T19:30:34.128605+00:00",
+      "filetree": "filetree/483b594c875469827d835941eba4856cec46a5d8.nq.gz",
+      "blobs": [
+        "blob/25125992804ea07d907b7e5bfc3f3cb637227784.nq.gz",
+        "blob/63ce179bf1e0da59aac599a40496aaed39692e8a.nq.gz",
+        "blob/22270aee1c76a9516406d357825d8379eb889cf7.nq.gz",
+        "blob/c19d0dcba566c3f00f38da81878e68a2a178fce0.nq.gz",
+        "blob/377a5274e2e9dea23d3dc43aec399a09dfe38485.nq.gz",
+        "blob/b87a390733341cd5a1b5df782198288c1db6635f.nq.gz",
+        "blob/8b5eaa3de66e9ca0afe61ccced42d7c3a7377000.nq.gz",
+        "blob/5df841c973a366da6cc9874743accca12910e888.nq.gz",
+        "blob/41b5011a5d8db6e1cd33f5fa0f1907fd6280ef80.nq.gz",
+        "blob/86918455f0c99665cf5ca5c79166def19cb87db0.nq.gz",
+        "blob/ad78220bf6ae7568b9e1aff6428f7851beaa7865.nq.gz",
+        "blob/a6f0cdf0c75ac4bd51e87ffd0da5d4ebff2c36c7.nq.gz",
+        "blob/96fee09cced7c27ade726d7bfa5a26062df889af.nq.gz",
+        "blob/eb67b2dfec68dbbedb1b08ddffd7489f39839ed0.nq.gz",
+        "blob/84ed47d12b8509744d97884c6d15ba1dedb7a185.nq.gz",
+        "blob/68f53df74118c02e72fefdfce11364b2253b497b.nq.gz",
+        "blob/69aaac7c1efa7cabf5913352c74b5a04c703404a.nq.gz",
+        "blob/e0d5efab56fb94577e7804603eb6f21f36977cb2.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/021747e61431f33dabc3dd606053865735e1897d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
